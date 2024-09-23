@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B22FC52-C8C4-4E7A-89AB-A066E2AE98AF}|Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj|c:\\users\\motst\\school\\fall2024-assignment1-mtorres3\\fall2024-assignment1-mtorres3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4B22FC52-C8C4-4E7A-89AB-A066E2AE98AF}|Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj|solutionrelative:fall2024-assignment1-mtorres3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4B22FC52-C8C4-4E7A-89AB-A066E2AE98AF}|Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj|c:\\users\\motst\\school\\fall2024-assignment1-mtorres3\\fall2024-assignment1-mtorres3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B22FC52-C8C4-4E7A-89AB-A066E2AE98AF}|Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj|solutionrelative:fall2024-assignment1-mtorres3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B22FC52-C8C4-4E7A-89AB-A066E2AE98AF}|Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj|c:\\users\\motst\\school\\fall2024-assignment1-mtorres3\\fall2024-assignment1-mtorres3\\fall2024-assignment1-mtorres3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4B22FC52-C8C4-4E7A-89AB-A066E2AE98AF}|Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj|solutionrelative:fall2024-assignment1-mtorres3\\fall2024-assignment1-mtorres3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B22FC52-C8C4-4E7A-89AB-A066E2AE98AF}|Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj|c:\\users\\motst\\school\\fall2024-assignment1-mtorres3\\fall2024-assignment1-mtorres3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -22,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Fall2024-Assignment1-mtorres3\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3\\wwwroot\\index.html",
               "RelativeToolTip": "Fall2024-Assignment1-mtorres3\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-23T00:29:33.505Z",
               "IsPinned": true,
@@ -37,14 +41,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Fall2024-Assignment1-mtorres3\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Fall2024-Assignment1-mtorres3\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-23T00:32:18.741Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3\\Program.cs",
+              "RelativeDocumentMoniker": "Fall2024-Assignment1-mtorres3\\Program.cs",
+              "ToolTip": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3\\Program.cs",
+              "RelativeToolTip": "Fall2024-Assignment1-mtorres3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:02:58.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fall2024-Assignment1-mtorres3",
+              "DocumentMoniker": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj",
+              "RelativeDocumentMoniker": "Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj",
+              "ToolTip": "C:\\Users\\motst\\school\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj",
+              "RelativeToolTip": "Fall2024-Assignment1-mtorres3\\Fall2024-Assignment1-mtorres3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T01:02:11.069Z",
               "EditorCaption": ""
             }
           ]
