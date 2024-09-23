@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fall2024-Assignment1-mtorres3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99d9860281b875d0fde649ec21f665c9e014ca7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fall2024-Assignment1-mtorres3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fall2024-Assignment1-mtorres3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

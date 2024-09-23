@@ -28,3 +28,4 @@ C:\Users\motst\school\Fall2024-Assignment1-mtorres3\Fall2024-Assignment1-mtorres
 C:\Users\motst\school\Fall2024-Assignment1-mtorres3\Fall2024-Assignment1-mtorres3\obj\Debug\net8.0\Fall2024-Assignment1-mtorres3.pdb
 C:\Users\motst\school\Fall2024-Assignment1-mtorres3\Fall2024-Assignment1-mtorres3\obj\Debug\net8.0\Fall2024-Assignment1-mtorres3.genruntimeconfig.cache
 C:\Users\motst\school\Fall2024-Assignment1-mtorres3\Fall2024-Assignment1-mtorres3\obj\Debug\net8.0\ref\Fall2024-Assignment1-mtorres3.dll
+C:\Users\motst\school\Fall2024-Assignment1-mtorres3\Fall2024-Assignment1-mtorres3\obj\Debug\net8.0\Fall2024-Assignment1-mtorres3.sourcelink.json
